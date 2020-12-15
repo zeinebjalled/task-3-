@@ -3,7 +3,7 @@ nav {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: rgb(253, 252, 252);
+    background-color: whitesmoke;
   }
    nav ul {
        display: flex ;
@@ -51,7 +51,7 @@ color: gray;
   }
   
   .li  {
-    background-color: rgb(253, 251, 251);
+    
     font-size: 20.5px;
 color:gray;
 }
@@ -63,4 +63,7 @@ color:gray;
     nav ul div.items {
         display:none ; 
     }
+}
+.navv {
+    background-color: rgb(226, 217, 217); 
 }
