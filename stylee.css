@@ -67,37 +67,6 @@ color:gray;
 .navv {
     background-color: rgb(226, 217, 217); 
 }
-.cardgrid__wrap {
-    display: flow-root;
-    max-width: 1280px;
-    margin: 0 auto;
-}
 
-.cardgrid__data {
-    display: block;
-    padding: 0 40px;
-}
-.cardgrid--S .cardgrid__data-inner {
-    padding: 0 20px;
-}
-div {
-    display: block;
-}
-.cardgrid--S .cardgrid__text {
-    text-align: left;
-}
 
-.cardgrid__text, .cardgrid__text p {
-    color: #555;
-}
-.cardgrid__text, .cardgrid__text p, .text--B, p--B {
-    font-size: 2.8rem;
-    line-height: 3.4rem;
-}
-img {
-    border-style: none;
-}
 
-img {
-    border: 0;
-}
