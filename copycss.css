@@ -112,6 +112,11 @@ header .container .col-md-7 p {
 
 .section-1 {
   padding: 20vmin 0vmin;
+  background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    position: relative;
+    z-index: 1;
 }
 
 .section-1 .row .col-md-6 .pray img {
