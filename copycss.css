@@ -70,7 +70,7 @@ header .row .col-md-7 {
 }
 
 header .row .col-md-5 {
-  padding: 4.2vmin 1vmin;
+  padding: 4.2vmin 1vmin ;
 }
 
 header .row .col-md-5 img {
@@ -379,3 +379,26 @@ footer .column i + i {
     font-weight: 700;
     color: gray;
        }
+
+  .lifedata {
+    position: relative;
+    max-width:1250px;
+    margin:0 auto;
+    padding: 0 40px;
+    backface-visibility: hidden;
+  }
+
+  .animation{
+    backface-visibility: hidden;
+    transform: translateZ(0);
+  }
+
+  .animation_top {
+    backface-visibility: hidden;
+  }
+  .animation_top div{
+    position: relative;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+  }
