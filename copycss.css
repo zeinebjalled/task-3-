@@ -388,17 +388,6 @@ footer .column i + i {
     backface-visibility: hidden;
   }
 
-  .animation{
-    backface-visibility: hidden;
-    transform: translateZ(0);
-  }
-
-  .animation_top {
-    backface-visibility: hidden;
-  }
-  .animation_top div{
-    position: relative;
-    display: block;
-    margin: 0 auto;
-    text-align: center;
-  }
+ .img {
+   padding: 0%;
+ }
