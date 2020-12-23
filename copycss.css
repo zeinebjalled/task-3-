@@ -389,5 +389,9 @@ footer .column i + i {
   }
 
  .img {
-   padding: 0%;
+  width: 100%;
+ }
+
+ .margin {
+   margin-left: 15%;
  }
